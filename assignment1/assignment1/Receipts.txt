@@ -1,0 +1,25 @@
+
+
+Customer 1
+pie-shells 2 @ 0.99 1.98 N
+*** item 40012 not in inventory ***
+laundry-soap 1 @ 3.6 3.6 T
+
+		Subtotal: 5.58
+		Tax: 0.27
+
+	Total: 5.85
+
+
+
+Customer 2
+*** item 151615 not in inventory ***
+laundry-soap 6 @ 3.6 21.6 T
+pie-shells 5 @ 0.99 4.95 N
+*** item 400123 not in inventory ***
+
+		Subtotal: 26.55
+		Tax: 1.62
+
+	Total: 28.17
+

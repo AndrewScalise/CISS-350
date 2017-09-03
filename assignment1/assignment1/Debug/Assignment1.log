@@ -1,0 +1,6 @@
+﻿  Assignment1.cpp
+c:\users\mugen\source\repos\assignment1\assignment1\assignment1.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\mugen\source\repos\assignment1\assignment1\assignment1.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\mugen\source\repos\assignment1\assignment1\assignment1.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  Assignment1.vcxproj -> C:\Users\Mugen\source\repos\Assignment1\Debug\Assignment1.exe
+  Assignment1.vcxproj -> C:\Users\Mugen\source\repos\Assignment1\Debug\Assignment1.pdb (Partial PDB)
